@@ -5,7 +5,7 @@
 One of the interesting use cases for App
 Inventor involves people wanting to build an app that works “offline”
 when/where no internet access is available, let the user record data
-and then upload this data when internet access becomes available. While developers of App Inventor apps have support for storing data locally and for storing data remotely, App Inventor does not allow developers to write apps that help work offline. The idea of this project was to come up with a database that would would work both offline and online. We call this database CloudDB.
+and then upload this data when internet access becomes available. While developers of App Inventor apps have support for storing data locally and for storing data remotely, App Inventor does not allow developers to develop apps that work offline. The idea of this project was to come up with a database that would would work both offline and online. We call this database CloudDB.
 
 ## What is CloudDB?
 
